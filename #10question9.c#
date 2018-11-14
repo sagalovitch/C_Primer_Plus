@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+void copy_mult(int n, int m, double ar[n][m])
+{
+    
+}
+
+int main(void)
+{
+	double ar[3][5];
+}
